@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/chhs2131)
+![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=chhs2131&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chhs2131)](https://solved.ac/chhs2131)
 
