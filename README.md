@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   
 <img src="https://img.shields.io/badge/vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
