@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=chhs2131&show_icons=true)  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chhs2131)](https://solved.ac/chhs2131)  
 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
-
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -28,5 +26,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   
 <img src="https://img.shields.io/badge/vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
