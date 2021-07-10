@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=chhs2131&show_icons=true)  
+-->
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chhs2131)](https://solved.ac/chhs2131)  
 
+🛠 Skill & Tools
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
