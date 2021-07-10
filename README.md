@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=chhs2131&show_icons=true)  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chhs2131)](https://solved.ac/chhs2131)  
 
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhs2131)](https://github.com/chhs2131/github-readme-stats)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
