@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=chhs2131&show_icons=true)  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chhs2131)](https://solved.ac/chhs2131)  
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhs2131)](https://github.com/chhs2131/github-readme-stats)
