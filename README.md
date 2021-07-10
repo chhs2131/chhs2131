@@ -3,8 +3,9 @@
 ![chhs2131's github stats](https://github-readme-stats.vercel.app/api?username=chhs2131&show_icons=true)  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chhs2131)](https://solved.ac/chhs2131)  
 -->
-### Hi there 👋
+### HELLO WORLD!!
 선생님, 노답 레벨1 잡케가 될것같아요. 🤢
+  
   
 ### 조금 더 해본거 🛠
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
