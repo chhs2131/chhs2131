@@ -17,4 +17,6 @@
 <img src="https://img.shields.io/badge/vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
