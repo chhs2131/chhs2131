@@ -1,4 +1,4 @@
-<p align="center" />
+<p align="center">
 
 ### Hi there 👋
 
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+
+</p>
