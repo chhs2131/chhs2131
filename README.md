@@ -1,22 +1,22 @@
-
-
-# HELLO WORLD!! 
-스프링 부트를 통한 <sup>'</sup><b>백엔드</b><sup>'</sup> 개발에 관심을 가지고 있습니다 ^^
-
-</div>
+<div align="center">
   
-  
-  - 개발은 가치를 실현하기 위한 최고의 도구라고 생각합니다.
-- 세상을 변화시키기 위한 출발점은 백엔드라고 생각하여 관심을 가지고 있습니다.
-- 서비스를 만들고 사람들이 잘 사용해줄 때 보람을 느낍니다. 인하대학생을 위한 확장프로그램을 만들어서 배포하였습니다.
-- 돈을 좋아해서 경제에 관심이 있습니다. 현재는 공모주 서비스를 개발/운영하고 있습니다.
-<br/><br/><br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🤗%20HELLO%20WORLD!!&desc=^_^&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
 
 
+<center>
+
+개발은 가치를 실현하기 위한 최고의 도구라고 생각합니다.
+
+서비스를 만들고 사람들이 잘 사용해줄 때 보람을 느낍니다. 
+
+돈을 좋아해서 경제에 관심이 있습니다. 현재는 공모주 서비스를 개발/운영하고 있습니다.
+
+<br/>
 
 
-###  TechStack
+
+### TechStack 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 https://simpleicons.org/
@@ -41,12 +41,11 @@ System & Platform
 </sub>
 <br/>
 <span>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/EC2/ComputeEngine-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL/MariaDB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=mariadb&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/></a>
 </span>
 <br/>
 
@@ -66,9 +65,11 @@ etc.
 
 <br/><br/>
 
+
 ### 주요활동
 - 소프트웨어마에스트로 14기 진행 중 
 
+[![-](https://github-readme-stats.vercel.app/api/wakatime?username=chhs2131)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-<div align="center">
+
 </div>
