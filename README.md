@@ -10,7 +10,9 @@
 
 서비스를 만들고 사람들이 잘 사용해줄 때 보람을 느낍니다. 
 
-돈을 좋아해서 경제에 관심이 있습니다. 현재는 공모주 서비스를 개발/운영하고 있습니다.
+돈을 좋아하고 경제에 관심이 있습니다.
+
+현재는 공모주 및 과팅 서비스를 개발/운영하고 있습니다.
 
 <br/>
 
@@ -67,7 +69,7 @@ etc.
 
 
 ### 주요활동
-- 소프트웨어마에스트로 14기 진행 중 
+- 소프트웨어마에스트로 14기 수료 
 
 [![-](https://github-readme-stats.vercel.app/api/wakatime?username=chhs2131)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
