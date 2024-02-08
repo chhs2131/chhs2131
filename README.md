@@ -71,11 +71,15 @@ etc.
 ### 주요활동
 - 소프트웨어마에스트로 14기 수료
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![-](https://github-readme-stats.vercel.app/api/wakatime?username=chhs2131)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
 
 </div>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
