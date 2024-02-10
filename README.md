@@ -3,7 +3,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&fontSize=60)
   
-  ![transparent](https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=ReadMe&height=150&fontSize=60&desc=HelloWorld&descAlignY=75&descAlign=60)
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontcolor=gradient&text=ReadMe&height=150&fontSize=60&desc=HelloWorld&descAlignY=75&descAlign=60&stroke=b678c4&strokeWidth=1)
   
   ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&fontSize=60&reversal=true)
   
