@@ -34,10 +34,6 @@
   <a href="https://www.linkedin.com/in/%ED%98%84%EC%8B%9D-%EC%B5%9C-728202212/">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=LinkedIn&logoColor=black"/>
   </a>
-  
-  <a hef="https://open.kakao.com/me/chs">
-  <img src="https://img.shields.io/badge/Talk-ffffff?style=flat-square&logo=kakaotalk&logoColor=black"/>
-  </a>
 </div>
 
 <!--
