@@ -64,7 +64,7 @@
     
   서비스는 사람들이 사용할 때, 그리고 지불할 때 증명됩니다.
   
-  완벽보다는 완료를 추구합니다.
+  완벽하기 위해 완료를 추구합니다.
   
   </span>
   
@@ -107,7 +107,7 @@
   </sub>
   <br/>
   <span>
-  <img src="https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/></a>
