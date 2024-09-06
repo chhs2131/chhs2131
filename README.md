@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=naver&logoColor=black"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/%ED%98%84%EC%8B%9D-%EC%B5%9C-728202212/">
+  <a href="https://www.linkedin.com/in/hyeonsik/">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=LinkedIn&logoColor=black"/>
   </a>
 </div>
