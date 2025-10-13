@@ -64,8 +64,6 @@
     
   서비스는 사람들이 사용할 때, 그리고 지불할 때 증명됩니다.
   
-  완벽하기 위해 완료를 추구합니다.
-  
   </span>
   
   <br/>
@@ -97,7 +95,7 @@
   <br/>
   <span>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
   </span>
   <br/>
