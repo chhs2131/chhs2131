@@ -27,10 +27,6 @@
 
 
 <div align="right">
-  <a href="https://blog.naver.com/chgy2131">
-  <img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=naver&logoColor=black"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/hyeonsik/">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=LinkedIn&logoColor=black"/>
   </a>
@@ -60,7 +56,7 @@
 <div align="center">
   
   <span>
-  개발은 가치를 실현하기 위한 최고의 도구라고 생각합니다.
+  개발은 가치를 실현하기 위한 도구라고 생각합니다.
     
   서비스는 사람들이 사용할 때, 그리고 지불할 때 증명됩니다.
   
@@ -68,53 +64,4 @@
   
   <br/>
   
-  
-  
-  
-  ### Experience
-  우아한테크캠프 7기 수료
-  
-  소프트웨어마에스트로 14기 수료 
-  
-  공모주 및 과팅 서비스 개발/운영
-  
-  
-  
-  
-  <br/>
-  
-  ### TechStack 
-  <!--
-  <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=for-the-badge&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-  https://simpleicons.org/
-  -->
-  
-  <sub>
-  Backend
-  </sub>
-  <br/>
-  <span>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
-  </span>
-  <br/>
-  
-  
-  
-  <sub>
-  System & Platform
-  </sub>
-  <br/>
-  <span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/></a>
-  </span>
-  <br/>
-
-  
-  <br/>
-
 </div>
